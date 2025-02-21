@@ -2,3 +2,16 @@ pandas
 numpy
 matplotlib
 yfinance
+Scipy
+PILlow
+PyGame
+Jieba
+tushare
+jqdatasdk
+requests
+bs4
+sklearn
+keras
+JQData
+quantaxis
+OpenDataTools
