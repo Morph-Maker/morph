@@ -9,7 +9,6 @@ Jieba
 tushare
 jqdatasdk
 bs4
-keras
 JQData
 quantaxis
 OpenDataTools
