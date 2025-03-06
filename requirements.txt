@@ -10,7 +10,6 @@ tushare
 jqdatasdk
 requests
 bs4
-sklearn
 keras
 JQData
 quantaxis
