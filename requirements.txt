@@ -1,14 +1,4 @@
 pandas
 numpy
 matplotlib
-yfinance
-Scipy
-PILlow
-PyGame
-Jieba
-tushare
-jqdatasdk
-bs4
 JQData
-quantaxis
-OpenDataTools
