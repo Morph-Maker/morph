@@ -8,7 +8,6 @@ PyGame
 Jieba
 tushare
 jqdatasdk
-requests
 bs4
 keras
 JQData
